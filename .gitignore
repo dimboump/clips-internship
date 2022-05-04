@@ -1,3 +1,14 @@
+local_copies/
+*.xlsx
+*.docx
+*.pptx
+*.pdf
+*.txt
+*.zip
+*.tar
+*.7z
+*.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
