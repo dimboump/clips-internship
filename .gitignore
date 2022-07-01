@@ -3,6 +3,8 @@ outputs/
 runs/
 local_copies/
 
+*.csv
+*.tsv
 *.xlsx
 *.docx
 *.pptx
